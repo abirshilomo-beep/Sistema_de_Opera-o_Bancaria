@@ -1,4 +1,4 @@
-# Sistema_de_Opera-o_Bancaria
+# Sistema_de_Operacao_Bancaria
 ==================================
 Menu = """
 
